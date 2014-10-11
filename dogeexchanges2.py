@@ -96,5 +96,5 @@ while True:
     print "Btc100   =", Btc100CNYLive
     print "       Doge/LTC"
     print "Cryptsy  =", CryptsyLTCLive
-    time.sleep(30) # 120 equals two minutes
+    time.sleep(20) # 120 equals two minutes
   

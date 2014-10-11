@@ -62,5 +62,5 @@ while True:
     print "Doge/CNY"
     print "Bter =", bterCNYLive
     print; print "=-=-=-=-=-=-=--=-="; print;
-    time.sleep(10) # 120 equals two minutes
+    time.sleep(20) # 120 equals two minutes
   
